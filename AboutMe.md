@@ -1,3 +1,3 @@
 # Nikitha Ravella
 Nikki is miracle.....
-![NikithaRavella](Nikki.jpeg)
+![Image](Nikki.jpeg)
