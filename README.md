@@ -20,5 +20,10 @@ Other than India below are the better teams in my perspective
  ----------------------------
  # TableCreation
  Please refer to the below table for more details
- 
-    |   **Country Name**               | **Good For a Reason**        |**Days suggested**  ||----------------------------------|------------------------------|--------------------||   Switzerland                    | Scenic Nature and waterfalls |      15            ||   France                         | It's Capital Paris           |      10            ||   India                          | Cultural treat and Food      |      20            ||   Scotland                       | Climate and People           |      12            |  
+
+|   **Country Name**               | **Good For a Reason**        |**Days suggested**  |
+|----------------------------------|------------------------------|--------------------|
+|   Switzerland                    |Nature and waterfalls         |      15            |
+|   France                         |Urban world                   |      10            |
+|   India                          |Culture and Food              |      20            |
+|   Scotland                       |Weather                       |      12            |  
