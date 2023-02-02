@@ -15,3 +15,10 @@ Other than India below are the better teams in my perspective
 - Block Magic
 - EZ Pass
  
+
+ [NikithaRavella](AboutMe.md)
+ ----------------------------
+ # TableCreation
+ Please refer to the below table for more details
+ 
+    |   **Country Name**               | **Good For a Reason**        |**Days suggested**  ||----------------------------------|------------------------------|--------------------||   Switzerland                    | Scenic Nature and waterfalls |      15            ||   France                         | It's Capital Paris           |      10            ||   India                          | Cultural treat and Food      |      20            ||   Scotland                       | Climate and People           |      12            |  
