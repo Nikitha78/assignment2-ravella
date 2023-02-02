@@ -37,7 +37,8 @@ Please refer to the below table for more details
 >
 > “A woman is like a tea bag – you can’t tell how strong she is until you put her in hot water.”    ~ *Eleanor Roosevelt*
 
---# Code Snippet>How to Text Lock-Up?
+--# Code Snippet
+>How to Text Lock-Up?
 Stack URL: <https://stackoverflow.com/questions/11727787/grab-svg-text-value-with-javascript>
 ````
 <svg viewBox="0 0 100 100">  
