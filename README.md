@@ -6,9 +6,9 @@ Playing volleyball helps you to create life time **memories**.
 ---- 
 # ordered list
 India is my favorite volleyball team
-1.Jimmy George 
-2.Cyril Vellore 
-3.Palanisamy
+1. Jimmy George 
+2. Cyril Vellore 
+3. Palanisamy
 # Unordered list
 Other than India below are the better teams in my perspective
 - Arm and Hammer
