@@ -16,10 +16,10 @@ Other than India below are the better teams in my perspective
 - EZ Pass
  
 
- [NikithaRavella](AboutMe.md)
- ----------------------------
- # TableCreation
- Please refer to the below table for more details
+[NikithaRavella](AboutMe.md)
+----------------------------
+# TableCreation
+Please refer to the below table for more details
 
 |   **Country Name**               | **Good For a Reason**        |**Days suggested**  |
 |----------------------------------|------------------------------|--------------------|
