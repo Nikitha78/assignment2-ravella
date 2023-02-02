@@ -34,4 +34,5 @@ Please refer to the below table for more details
 ### Funny Quotes
 
 > All you need is love. But a little chocolate now and then doesn’t hurt. - *Charles M. Schulz*
+>
 > “A woman is like a tea bag – you can’t tell how strong she is until you put her in hot water.”    ~ *Eleanor Roosevelt*
