@@ -39,7 +39,9 @@ Please refer to the below table for more details
 
 --# Code Snippet
 >How to Text Lock-Up?
-Stack URL: <https://stackoverflow.com/questions/11727787/grab-svg-text-value-with-javascript>
+
+Stack URL : <https://stackoverflow.com/questions/11727787/grab-svg-text-value-with-javascript>
+
 ````
 <svg viewBox="0 0 100 100">  
 <text>    
